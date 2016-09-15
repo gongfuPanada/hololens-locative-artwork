@@ -37,3 +37,6 @@ sysinfo.txt
 
 # Visual Studio Export
 /SharedHolograms/App
+
+#Shader cache
+/SharedHolograms/Library/ShaderCache
